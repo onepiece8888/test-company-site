@@ -1,0 +1,1 @@
+export default function Contact() { return <div>ติดต่อเรา</div> }

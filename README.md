@@ -1,1 +1,1 @@
-# test-company-site
+# README for Factory Website with Next.js and Netlify CMS

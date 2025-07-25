@@ -1,0 +1,1 @@
+export default function ProductDetail() { return <div>รายละเอียดผลิตภัณฑ์</div> }

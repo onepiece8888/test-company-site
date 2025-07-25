@@ -1,0 +1,1 @@
+export default function NewsDetail() { return <div>ข่าวรายละเอียด</div> }
